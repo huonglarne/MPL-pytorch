@@ -1,3 +1,7 @@
+#Run with Moreh
+        pip install tensorboard
+        bash train.sh
+
 # Meta Pseudo Labels
 This is an unofficial PyTorch implementation of [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580).
 The official Tensorflow implementation is [here](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels).
