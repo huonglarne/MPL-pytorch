@@ -1,5 +1,6 @@
 #Run with Moreh
         pip install tensorboard
+        conda activate mpl
         bash train.sh
 
 # Meta Pseudo Labels
